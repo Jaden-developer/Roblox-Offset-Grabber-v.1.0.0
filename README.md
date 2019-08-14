@@ -1,7 +1,8 @@
 # Roblox-Offset-Grabber-v.1.0.0
 
 # Changelog:
-  **[!] More Offsets added.**\n
+  **[!] More Offsets added.**
+  
   **[!] A little faster process.**
   **[!] VMProtection dumper (BETA)**
   
