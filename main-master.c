@@ -1,5 +1,6 @@
 #use <Engi/Unpack/Tool.e> as X
 
+// THIS IS NOT C++, DONT THINK IT IS IT IS ENGII++
 // Calling Conv. scanner, credits to: math.rand0m.
 func _Env Scan(a1):
   #X.CheckState(a1, 6) // Goes from that address, up 6 lines. If calling conv. not found, try method: 2.
